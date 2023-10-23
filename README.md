@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![banner](https://github.com/leoarcabold/databaseuniversity/blob/main/banner.png)
 
 
 
